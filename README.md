@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Mahfujul-Islam
-- 
 - 👀 I’m interested in Programing
-- 
 - 🌱 I’m currently learning java
-- 
 - I am currently a student studying computer science and engineering at AIUB
-- 
 - 📫 How to reach me mahfujulislam100@gmail.com
 - 
 <!---
